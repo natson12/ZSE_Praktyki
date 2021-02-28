@@ -1,4 +1,4 @@
-package first_week.basics.zadania;
+package first_week.basics.zadania_3;
 
 public class zadanie4 {
 
